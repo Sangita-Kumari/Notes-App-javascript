@@ -17,7 +17,7 @@
   
    ![image](https://github.com/Sangita-Kumari/Notes-App-javascript/assets/98204711/1e00e314-11d5-4b05-b92a-277614946b80)
 
-   4)   **We cn also sort it by date, title, and notes.**
+   4)   **We can also sort it by date, title, and notes.**
    ![image](https://github.com/Sangita-Kumari/Notes-App-javascript/assets/98204711/73107a0c-6477-40d5-8b8a-4452641d6066)
 
 
